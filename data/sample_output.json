@@ -1,0 +1,22 @@
+[
+  {
+    "restaurant_name": "Example Cafe",
+    "address": "123 Main St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94105",
+    "phone": "(415) 555-1234",
+    "email": "info@example.com",
+    "category": "Cafe"
+  },
+  {
+    "restaurant_name": "Golden Slice Pizza",
+    "address": "44 Market St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94104",
+    "phone": "(415) 555-9090",
+    "email": "hello@goldenslice.com",
+    "category": "Pizza"
+  }
+]
