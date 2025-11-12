@@ -1,0 +1,6 @@
+{
+  "output_format": "json",
+  "limit": 1000,
+  "seed": 42,
+  "output_path": "data/sample_output.json"
+}
